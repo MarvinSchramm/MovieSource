@@ -11,3 +11,5 @@
 - [Spring Boot Quickstart](http://projects.spring.io/spring-boot/)
 - [Spring Data Jpa Quickstart](http://projects.spring.io/spring-data-jpa/)
 - [Restful Best Practices](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- [Getting Started With Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+- [Helpful Git Commands](http://ohshitgit.com/)
